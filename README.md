@@ -9,4 +9,4 @@ I am interested in UX design and research, I woule like to work as a UX designer
 I want to learn how to communicate the information more effectively through simple sketches, how to highlight the information that I want to stress, and use this as a weapon to pursuade others.
 
 # Portfolio
-week 2 work here(/DataViz2.md)
+week 2 work here (/DataViz2.md)
