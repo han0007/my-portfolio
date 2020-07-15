@@ -3,3 +3,6 @@
 
 # general government debt - by Flourish
 <div class="flourish-embed flourish-chart" data-src="visualisation/3180988" data-url="https://flo.uri.sh/visualisation/3180988/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# general government debt - column chart by Flourish
+<div class="flourish-embed flourish-chart" data-src="visualisation/3188091" data-url="https://flo.uri.sh/visualisation/3188091/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
