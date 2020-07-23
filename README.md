@@ -11,3 +11,4 @@ I want to learn how to communicate the information more effectively through simp
 # Portfolio
 [general government debt](DataViz2.md)
 
+[redesign of a data visualization](dataviz3.md)
