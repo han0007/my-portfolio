@@ -12,3 +12,5 @@ I want to learn how to communicate the information more effectively through simp
 [general government debt](DataViz2.md)
 
 [redesign of a data visualization](dataviz3.md)
+
+[my final project](final_project_HanXue.md)
