@@ -11,7 +11,7 @@ How to manage mental health and keep away from suicide? I can use some examples 
 I think I will be using Shorthand, but I am still getting used to it now.
 
 # The data
-I started with suicide data from WHO, the link is [here] (https://apps.who.int/gho/data/node.main.MENTALHEALTH?lang=en)
+I started with suicide data from WHO, the link is [here](https://apps.who.int/gho/data/node.main.MENTALHEALTH?lang=en) 
 I am still working on other data for coping strategies, will update here later.
 
 # Initial sketches
