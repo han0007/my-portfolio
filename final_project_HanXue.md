@@ -25,22 +25,20 @@ I started from the WHO data and mocked up several visualization with Tableau. Th
 
 # User research
 
-a. Target audience: general public who are concerned about mental health problems, and would like to know how the policy makers are doing on this problem.
-b. Study objects: several friends of mine.
-c. Interview script: 
-* Consent Form: Hi I am a student from CMU, I am working on a course project on mental health, and would like to hear your personal opinion on this topic. Do you mind abswering some questions for me? This interview is confidential and voluntary, I am not evaluating you in any way. You can stop it at any time you want. Do you consent to participate in this interview?
-* General: 
+* Target audience: general public who are concerned about mental health problems, and would like to know how the policy makers are doing on this problem. 
+* Study objects: several friends of mine. I pick three of my friends, they all come from multi-cultural background and cares about mental health, they would help me make comparison between countries.
+* Interview script: 
+ * Consent Form: Hi I am a student from CMU, I am working on a course project on mental health, and would like to hear your personal opinion on this topic. Do you mind abswering some questions for me? This interview is confidential and voluntary, I am not evaluating you in any way. You can stop it at any time you want. Do you consent to participate in this interview?
+ * General: 
   * Can you tell me your feeling about the word "mental health"? How do you interpret it?
   * Do you think bad mental state will cause severe consequences? What factors do you think will contribute to that?
-* Factors:
+ * Factors:
   * Do you think there would be a difference because of gender? What about age?
   * What is your reason for assuming that factor will contribute to suicide rate?
-* Policy:
+ * Policy:
   * How would you say your contry has been doing in this aspect?
   * Who do you think the government or policy makers should be trying harder for providing help on this?
   * Any other comments on this topic? Any questions for me?
-d. the findings from your interviews; and 
-e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
 
 # User research findings
 
@@ -48,3 +46,10 @@ Generally, people tend to think cultural factor will contribute the most to suic
 The second factor might be age group, one of my friends think younger people will possibly have higher suicide rate, for they have less resources when things come up, less strategies they can adopt to deal with pressure. One friend says it is not a specific age group, it should be transition time that suicide will possibly happen the most commonly, like when people first started college, or have their first job.
 My friends think gender is not a common factor for suicide rate difference. But I personlly think female are better in dealing emotions, I think I read it from a scientific research.
 My friends all think for policy makers, the first priority is to promote awareness for mental health. In some cultures, people are still holding biased opinions for turning to professionals for help with their emotions. It could take years to deal with, but the first step should be made boldly.
+
+# Changes to my story
+
+I notice my audience possibly has some idea about different cultural backgrounds and their relation to suicide rate. I want to try and make comparison of suicide rate across continents, and see if there are any findings there. 
+Cultural background is one thing, the other would be economic background of each country, I would like to use color to stress that in my chart.
+I started a sketch like this.
+<div class='tableauPlaceholder' id='viz1596076468364' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;su&#47;suiciderateandcontinent&#47;suiciderateandcontinent&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='suiciderateandcontinent&#47;suiciderateandcontinent' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;su&#47;suiciderateandcontinent&#47;suiciderateandcontinent&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-Hans' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'> var divElement = document.getElementById('viz1596076468364'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
