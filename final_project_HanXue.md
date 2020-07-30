@@ -1,4 +1,4 @@
-## This is the outline of my final project
+# This is the outline of my final project
 # my one setence discriptor: Suicide is closer to us than we thought.
 Mental health is more important than many of us perceived. Sometimes we are not that healthy, and suicide is actually very close to us. 
 
