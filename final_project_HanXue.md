@@ -70,7 +70,7 @@ After feedback from part I, I modified my direction and referred to other resour
 The resources are listed in detail in shorthand presentation.
 
 ## Shorthand presentation
-https://carnegiemellon.shorthandstories.com/hanxue-dataviz/index.html
+[shorthand](https://carnegiemellon.shorthandstories.com/hanxue-dataviz/index.html)
 
 ## My journey and reflection
 I started this project from a vague idea, I want to make something about health. But what exactly? No idea. Then I thought it might be a nice start to look at data first, what dataset I can get my hands on... So I went to WHO website, and there was a huge dataset on suicide rate and demograohic information. That is the base of my "analyzing the demograohic" part of presentation.
