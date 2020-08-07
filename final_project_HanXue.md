@@ -60,6 +60,21 @@ I started a sketch like this.
 
 After getting feedback from Eileen and my friends, I started to think about how to convey my audience with the data I have. I think that is the main problem with this project. 
 
-Since I only have one minute to present, I decide to go with a simple misundertanding, and not go into details about the reason for high suicide rates. My choice of misunderstanding is from the interview, my friends think suicide is far away from their lives. I then decide to show several charts to demostrate suicide situation is severe all around the world. And I want to make a point about the demographic of people that commit suicide. 
+Since I only have one minute to present, I decide to go with a simple misundertanding, and not go into details about the reason for high suicide rates. My choice of misunderstanding is from the interview, my friends think suicide is far away from their lives. I then decide to show several charts to demostrate suicide situation is severe all around the world. And I want to make a point about the demographic of people that commit suicide. I attempted to explore the reasons for high suicide rate for specific groups, but after deep dive into research, I realize it is such a huge topic, and researchers all have different opinions towards that.
 
 And for that reason, I think my target audience will also switch. Now I am speaking to the general public, especially those who don't care about mental health. I want to raise their awareness for suicide, and hopefully this presentation will serve some good.
+
+## The data
+
+After feedback from part I, I modified my direction and referred to other resources and analysis. 
+The resources are listed in detail in shorthand presentation.
+
+## Shorthand presentation
+https://carnegiemellon.shorthandstories.com/hanxue-dataviz/index.html
+
+## My journey and reflection
+I started this project from a vague idea, I want to make something about health. But what exactly? No idea. Then I thought it might be a nice start to look at data first, what dataset I can get my hands on... So I went to WHO website, and there was a huge dataset on suicide rate and demograohic information. That is the base of my "analyzing the demograohic" part of presentation.
+I talked to my friends about their thoughts on suicide, what kinds of people might commit suicide, and how to improve on the current situation. I noticed they have mixed ideas about suicide, but generally think suicide is not that common. When I brought the data that said America had two time suicide cases compared to homicide, they were surprised. I thought that could be a starting point. 
+For the demographic part, I used several different yet simple charts to show direct information: how suicide rate changes with age, gender, and country. It was a painful process, although the final charts seem simple, I spent a lot of time cleaning the data. I think WHO's data set might work better with R or Python, than Tableau.
+
+
