@@ -1,5 +1,5 @@
-# my-portfolio
-my portfolio page
+# Welcome to my portfolio
+This is my portfolio page for Telling Stories with Data in Carnegie Mellon, I will be posting my assignments here. Welcome.
 
 # ABOUT ME
 I am Han, I am from METALS program of HCII, thta represents Educational Technology and Learning Science. 
